@@ -2,12 +2,12 @@
   "name": "rat_server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": "16.13.2"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "l",
@@ -22,6 +22,7 @@
     "axios": "^0.26.1"
   }
 }
+
 
 
 
